@@ -1,0 +1,7 @@
+transformers
+torch 
+safetensors
+langchain-openai
+langgraph
+python-dotenv
+streamlit
